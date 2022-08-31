@@ -1,16 +1,6 @@
-# movie_app
+# Movie App
 
-A new Flutter project.
+## Movie app made with Flutter using API and Dummy Data.
+![Screenshot_20220831-165415](https://user-images.githubusercontent.com/58918060/187782587-740dee6a-18ee-4f65-995f-1a02e912c7a6.png)
+![Screenshot_20220831-165424](https://user-images.githubusercontent.com/58918060/187782636-6444fcda-ab51-4b95-b9e6-19a1c608ef8e.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
